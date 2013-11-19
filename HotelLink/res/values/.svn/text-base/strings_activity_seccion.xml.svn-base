@@ -1,0 +1,4 @@
+<resources>
+    <string name="btn_bread_nueva_solicitud">Nueva solicitud</string>
+   	<string name="btn_bread_secciones">Secciones</string>
+</resources>

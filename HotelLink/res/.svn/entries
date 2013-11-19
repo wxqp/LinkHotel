@@ -1,0 +1,70 @@
+10
+
+dir
+31
+https://svn.code.sf.net/p/hotellinkmovil/code/HotelLink/res
+https://svn.code.sf.net/p/hotellinkmovil/code
+
+
+
+2013-11-14T17:53:00.670807Z
+20
+jaunrios
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+10a689de-1bef-4276-910d-9eacb368bdb1
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+drawable-xxhdpi
+dir
+
+layout
+dir
+
+menu
+dir
+
+values
+dir
+
+values-large
+dir
+
+values-sw600dp
+dir
+
+values-sw720dp-land
+dir
+
+values-v11
+dir
+
+values-v14
+dir
+

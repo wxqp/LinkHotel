@@ -1,0 +1,205 @@
+10
+
+dir
+31
+https://svn.code.sf.net/p/hotellinkmovil/code/google-play-services_lib/res
+https://svn.code.sf.net/p/hotellinkmovil/code
+
+
+
+2013-11-14T18:19:56.991841Z
+22
+jaunrios
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+10a689de-1bef-4276-910d-9eacb368bdb1
+
+color
+dir
+
+drawable
+dir
+
+drawable-hdpi
+dir
+
+drawable-ldpi
+dir
+
+drawable-mdpi
+dir
+
+drawable-xhdpi
+dir
+
+layout
+dir
+
+values
+dir
+
+values-af
+dir
+
+values-am
+dir
+
+values-ar
+dir
+
+values-be
+dir
+
+values-bg
+dir
+
+values-ca
+dir
+
+values-cs
+dir
+
+values-da
+dir
+
+values-de
+dir
+
+values-el
+dir
+
+values-en-rGB
+dir
+
+values-es
+dir
+
+values-es-rUS
+dir
+
+values-et
+dir
+
+values-et-rEE
+dir
+
+values-fa
+dir
+
+values-fi
+dir
+
+values-fr
+dir
+
+values-hi
+dir
+
+values-hr
+dir
+
+values-hu
+dir
+
+values-in
+dir
+
+values-it
+dir
+
+values-iw
+dir
+
+values-ja
+dir
+
+values-ko
+dir
+
+values-lt
+dir
+
+values-lv
+dir
+
+values-ms
+dir
+
+values-ms-rMY
+dir
+
+values-nb
+dir
+
+values-nl
+dir
+
+values-pl
+dir
+
+values-pt
+dir
+
+values-pt-rBR
+dir
+
+values-pt-rPT
+dir
+
+values-ro
+dir
+
+values-ru
+dir
+
+values-sk
+dir
+
+values-sl
+dir
+
+values-sr
+dir
+
+values-sv
+dir
+
+values-sw
+dir
+
+values-th
+dir
+
+values-tl
+dir
+
+values-tr
+dir
+
+values-uk
+dir
+
+values-vi
+dir
+
+values-zh-rCN
+dir
+
+values-zh-rTW
+dir
+
+values-zu
+dir
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Background" >#101011</color>
+    <color name="GreenColor" >#86c000</color>
+    <color name="GreenPressedColor" >#9ee300</color>
+    <color name="BlackGreenColor" >#588005</color>
+    <color name="BlackGreenPressedColor" >#76a115</color>
+    <color name="BlueColor">#039DE0</color>
+    <color name="cl_orange">#FF881B</color>
+    <color name="cl_orangepressed">#f08205</color>
+    <color name="WhiteColor">#fff</color>
+    <color name="GrayColor">#939393</color>
+    <color name="BlueBreadCrumbsButton">#0b88be</color>
+    <color name="BlueBreadCrumbsButton_passed">#064661</color>
+    <color name="BlueBreadCrumbsBackgroud">#3fabdb</color>
+</resources>
